@@ -6,7 +6,8 @@
 <h2>🔨My skills:</h2>
 
 <ol class="rounded">
-  <li><a>🔹Manual testing of web and mobile applications</a></li>
+  <li><a>🔹Manual mobile testing</a></li>
+  <li><a>🔹Manual testing in web application</a></li>
   <li><a>🔹Testing using checklists</a></li>
   <li><a>🔹Composing checklists</a></li>
   <li><a>🔹Writing bug reports</a></li>
