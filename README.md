@@ -11,7 +11,10 @@
   <li><a>🔹Writing bug reports</a></li>
 </ol>
 
-<img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/><img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/><img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/>
+<img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/>
+
+<h2>🔶I tested:</h2>
+<h1>Mobile game English League</h1>
 
 <h3 align="center">I also develop games on the godot engine</h3>
 
