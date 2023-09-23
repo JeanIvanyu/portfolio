@@ -14,7 +14,16 @@
 <img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/>
 
 <h2>🔶I tested:</h2>
-<h1>Mobile game English League</h1>
+<h1></h1>
+<dl>
+  <dt>🔸Mobile game English League:</dt>
+    <dd>[Текст](https://docs.google.com/spreadsheets/d/1o1jBDmGeG0afHtMT-UVs1XQZwEV_BhaJGic2JfuMjPU/edit?usp=sharing)</dd>
+  <dt>🔸В ролях:</dt>
+    <dd>Андрей Гайдулян</dd>
+    <dd>Алексей Гаврилов</dd>
+    <dd>Виталий Гогунский</dd>
+    <dd>Мария Кожевникова</dd>
+</dl>
 
 <h3 align="center">I also develop games on the godot engine</h3>
 
