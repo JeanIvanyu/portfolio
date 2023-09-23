@@ -7,7 +7,8 @@
 
 <ol class="rounded">
   <li><a>🔹Manual testing of web and mobile applications</a></li>
-  <li><a>🔹Compose and testing using the checklist</a></li>
+  <li><a>🔹Testing using the checklist</a></li>
+  <li><a>🔹Composing the checklist</a></li>
   <li><a>🔹Writing bug reports</a></li>
 </ol>
 
