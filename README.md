@@ -14,7 +14,6 @@
 
 
 <h2>🔶I tested:</h2>
-<h1></h1>
 <dl>
   <dt>🔸Mobile game English League:</dt>
     <dd><a href="https://docs.google.com/spreadsheets/d/1o1jBDmGeG0afHtMT-UVs1XQZwEV_BhaJGic2JfuMjPU/edit?usp=sharing">List of bugs</a></dd>
@@ -22,8 +21,11 @@
     <dd><a href="https://docs.google.com/spreadsheets/d/1LAHt8ar38fO3SkiMLe-rI8G9aWVDV_eNWMDqcr76aEM/edit?usp=sharing">Сheck list</a></dd>
 </dl>
 
-<h3 align="center">I also develop games on the godot engine</h3>
-
+<h3 align="left">I also develop games on the godot engine</h3>
+<dl>
+  <dt>🔸Circle Jump:</dt>
+    <dd><a href="https://yandex.ru/games/app/238898?lang=ru">Link to Yandex games</a></dd>
+</dl>
 <a href="https://godotengine.org/">![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)</a>
 
 <h3 align="left">💬My contacts:</h3>
