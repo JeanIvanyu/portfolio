@@ -7,4 +7,4 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 <a href="https://t.me/jeanivanyu">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-![Kwork](https://www.google.com/search?sca_esv=567861987&sxsrf=AM9HkKltjmmtRdbhCWpzJaJ23mksJCDOOg:1695483380253&q=kwork&tbm=isch&source=lnms&sa=X&ved=2ahUKEwji0-jkh8GBAxXnGRAIHb1EDz0Q0pQJegQIDBAB&biw=1600&bih=799&dpr=1#imgrc=8SNsL6e9t-6MXM)
+![Telegram]([https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://timeweb.com/ru/community/article/63/63d6dde8e4a9392641d7c64274c960b1.jpg)https://timeweb.com/ru/community/article/63/63d6dde8e4a9392641d7c64274c960b1.jpg)
