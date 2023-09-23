@@ -19,7 +19,7 @@
   <dt>🔸Mobile game English League:</dt>
     <dd><a href="https://docs.google.com/spreadsheets/d/1o1jBDmGeG0afHtMT-UVs1XQZwEV_BhaJGic2JfuMjPU/edit?usp=sharing">List of bugs</a></dd>
   <dt>🔸Site testing <a href="https://deverp.steelmetrixx.ru/">steelmetrixx</a>:</dt>
-    <dd><a href="https://docs.google.com/spreadsheets/d/1o1jBDmGeG0afHtMT-UVs1XQZwEV_BhaJGic2JfuMjPU/edit?usp=sharing">Сheck list</a></dd>
+    <dd><a href="https://docs.google.com/spreadsheets/d/1LAHt8ar38fO3SkiMLe-rI8G9aWVDV_eNWMDqcr76aEM/edit?usp=sharing">Сheck list</a></dd>
 </dl>
 
 <h3 align="center">I also develop games on the godot engine</h3>
