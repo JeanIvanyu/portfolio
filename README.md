@@ -6,9 +6,9 @@
 <h2>🔨Мои навыки:</h2>
 
 <ol class="rounded">
-  <li><a href="#">🔹Manual testing of web and mobile applications</a></li>
-  <li><a href="#">🔹Drawing up and testing using a checklist</a></li>
-  <li><a href="#">🔹Writing bug reports</a></li>
+  <li><a>🔹Manual testing of web and mobile applications</a></li>
+  <li><a>🔹Drawing up and testing using a checklist</a></li>
+  <li><a>🔹Writing bug reports</a></li>
 </ol>
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
