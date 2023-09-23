@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am QA engineer from Moscow</h3>
 
-<h2>🔨Мои навыки:</h2>
+<h2>🔨My skills:</h2>
 
 <ol class="rounded">
   <li><a>🔹Manual testing of web and mobile applications</a></li>
