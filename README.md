@@ -17,7 +17,7 @@
 <h1></h1>
 <dl>
   <dt>🔸Mobile game English League:</dt>
-    <dd>[Текст](https://docs.google.com/spreadsheets/d/1o1jBDmGeG0afHtMT-UVs1XQZwEV_BhaJGic2JfuMjPU/edit?usp=sharing)</dd>
+    <dd><a href="https://docs.google.com/spreadsheets/d/1o1jBDmGeG0afHtMT-UVs1XQZwEV_BhaJGic2JfuMjPU/edit?usp=sharing">List of bugs</a></dd>
   <dt>🔸В ролях:</dt>
     <dd>Андрей Гайдулян</dd>
     <dd>Алексей Гаврилов</dd>
