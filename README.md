@@ -11,6 +11,7 @@
   <li><a>🔹Writing bug reports</a></li>
 </ol>
 
+<img src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="32"/></h1>
 
 <h3 align="center">I also develop games on the godot engine</h3>
 
