@@ -11,7 +11,7 @@
   <li><a>🔹Writing bug reports</a></li>
 </ol>
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+<a href="https://godotengine.org/">![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)</a>
 
 <h3 align="left">💬My contacts:</h3>
 
