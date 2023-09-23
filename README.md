@@ -7,11 +7,11 @@
 
 <ol class="rounded">
   <li><a>🔹Manual testing of web and mobile applications</a></li>
-  <li><a>🔹Drawing up and testing using a checklist</a></li>
-  <li><a>🔹Writing bug reports</a></li>
+  <li><a><img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/>Drawing up and testing using a checklist</a></li>
+  <li><a><img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/>Writing bug reports</a></li>
 </ol>
 
-<a>_<img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/></a>
+<img align="center" src="https://cdn-edge.kwork.ru/images/chat/icon-typing.svg" height="10"/>
 
 <h3 align="center">I also develop games on the godot engine</h3>
 
