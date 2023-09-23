@@ -23,7 +23,7 @@
     <dd><a href="https://docs.google.com/spreadsheets/d/1LAHt8ar38fO3SkiMLe-rI8G9aWVDV_eNWMDqcr76aEM/edit?usp=sharing">Сheck list</a></dd>
 </dl>
 
-<h3 align="left">I also develop games on the godot engine</h3>
+<h3 align="left">Also I develop games on the godot engine</h3>
 <dl>
   <dt>🔸Circle Jump:</dt>
     <dd><a href="https://yandex.ru/games/app/238898?lang=ru">Link to Yandex games</a></dd>
