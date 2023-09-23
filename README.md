@@ -9,3 +9,4 @@
 
 <h3 align="center">My contacts:</h3>
 <a href="https://t.me/jeanivanyu">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
