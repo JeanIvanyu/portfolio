@@ -25,7 +25,6 @@
   <dt>🔸Mobile app "TRAFFIC LAWS":</dt>
     <dd><a href="https://play.google.com/store/apps/details?id=ru.asa.pdd.android.app">This app is on the Google Store</a></dd>
   <dt>🔸Site testing <a href="https://deverp.steelmetrixx.ru/">steelmetrixx</a>:</dt>
-  
     <dd><a href="https://docs.google.com/spreadsheets/d/1LAHt8ar38fO3SkiMLe-rI8G9aWVDV_eNWMDqcr76aEM/edit?usp=sharing">Сheck list</a></dd>
 </dl>
 <h3 align="left">Also I develop games on the Godot engine</h3>
