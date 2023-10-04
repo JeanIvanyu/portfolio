@@ -19,6 +19,9 @@
 <dl>
   <dt>🔸Mobile game English League:</dt>
     <dd><a href="https://docs.google.com/spreadsheets/d/1o1jBDmGeG0afHtMT-UVs1XQZwEV_BhaJGic2JfuMjPU/edit?usp=sharing">List of bugs</a></dd>
+  <dt>🔸Mobile game Miners Day:</dt>
+    <dd><a href="https://play.google.com/store/apps/details?id=com.gamwill.minersday">This game is on the Google Store</a></dd>
+    <dd><a href="https://github.com/JeanIvanyu/portfolio/blob/main/Miners%20Day.txt">List of bugs</a></dd>
   <dt>🔸Site testing <a href="https://deverp.steelmetrixx.ru/">steelmetrixx</a>:</dt>
     <dd><a href="https://docs.google.com/spreadsheets/d/1LAHt8ar38fO3SkiMLe-rI8G9aWVDV_eNWMDqcr76aEM/edit?usp=sharing">Сheck list</a></dd>
 </dl>
