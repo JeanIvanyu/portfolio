@@ -11,6 +11,7 @@
   <li><a>🔹Testing using checklists</a></li>
   <li><a>🔹Composing checklists</a></li>
   <li><a>🔹Writing bug reports</a></li>
+  <li><a>🔹Card design for marketplaces</a></li>
 </ol>
 
 
