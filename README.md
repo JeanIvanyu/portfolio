@@ -40,6 +40,3 @@
 
 <a href="https://godotengine.org/">![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)</a>
 
-<h3 align="left">💬My contacts:</h3>
-
-<a href="https://t.me/jeanivanyu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/></a>
