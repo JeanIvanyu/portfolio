@@ -26,7 +26,7 @@
   <dt>🔸Mobile app "TRAFFIC LAWS":</dt>
     <dd><a href="https://play.google.com/store/apps/details?id=ru.asa.pdd.android.app">This app is on the Google Store</a></dd>
   <dt>🔸Site testing <a href="https://deverp.steelmetrixx.ru/">steelmetrixx</a>:</dt>
-  <dt>🔸Mobile app "DvZ Dragon vs Zombies":</dt>
+  <dt>🔸Mobile game "DvZ Dragon vs Zombies":</dt>
     <dd><a href="https://play.google.com/store/apps/details?id=com.kodini.games.dvz.dragon.with.wizard.vs.zombies.afk.idle.rpg">This app is on the Google Store</a></dd>
     <dd><a>List of bugs is missing</a></dd>
   <dt>🔸Site testing <a href="https://deverp.steelmetrixx.ru/">steelmetrixx</a>:</dt>
